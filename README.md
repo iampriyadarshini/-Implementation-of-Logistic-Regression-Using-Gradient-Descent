@@ -78,8 +78,8 @@ print("Predicted Result:",y_prednew)
 ```
 
 ## Output:
-![EXPERIMENT 6](https://github.com/user-attachments/assets/fc22f20b-2cc2-4ea5-bdc9-528d5a1517db)
-![EXP 6](https://github.com/user-attachments/assets/c46d2f2a-ae3e-4809-b486-831d44d37b3a)
+![EXPERIMENT 6](https://github.com/user-attachments/assets/326154b8-fc48-44a5-985b-64ce4c0dc43e)
+![EXP 6](https://github.com/user-attachments/assets/a3498a19-6b4f-4a98-b1b7-1208b2ab45c9)
 
 
 ## Result:
